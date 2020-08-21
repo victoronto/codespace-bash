@@ -1,5 +1,6 @@
 {
   "extensions": [
-    "ms-vscode.powershell"
+    "ms-vscode.powershell",
+    "davidanson.vscode-markdownlint"
   ]
 }
