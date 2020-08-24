@@ -1,8 +1,0 @@
-{
-  "name": "TestLocalContainer",
-  "dockerFile": "Dockerfile",
-  "extensions": [
-    "ms-vscode.powershell",
-    "davidanson.vscode-markdownlint"
-  ]
-}
